@@ -26,10 +26,20 @@ const questions = [
             "Être sûr de son objectif avant de tirer : A.I.T. (Analyser – Identifier – Traiter)"
         ],
         0
+    ),
+
+    new Question(
+        "La légitime défense est prévue par quel article du Code pénal ?",
+        [
+            "Article 122-5",
+            "Article 125",
+            "Article 225",
+            "Aucun de ces articles"
+        ],
+        0
     )
 
 ];
-
 
 // =========================
 // QUIZ
