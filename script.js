@@ -31,12 +31,13 @@ const questions = [
     new Question(
         "La légitime défense est prévue par quel article du Code pénal ?",
         [
-            "Article 122-5",
+            
             "Article 125",
+            "Article 122-5",
             "Article 225",
             "Aucun de ces articles"
         ],
-        0
+        1
     )
 
 ];
